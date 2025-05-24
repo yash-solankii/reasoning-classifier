@@ -18,8 +18,8 @@ This repository contains resources for training and evaluating a reasoning class
    pip install -r requirements.txt
    ```
 
-2. Run the notebooks in sequence to generate data, train, and evaluate the model.
+2. Run the notebooks in sequence to generate data, train, and test the model.
 
-## Notes
+## Note
+You need an API key to utilise Groq and huggingfacetoken to train.
 
-- Model checkpoints are large and may not be pushed to GitHub. Consider using Git LFS if needed.
